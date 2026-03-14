@@ -29,7 +29,7 @@
 
 Click the badge below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/yourusername/spending-anomaly-detector/blob/main/notebooks/anomaly_detection.ipynb](https://colab.research.google.com/drive/1YJxIXGxixt0hQvVL3JfOyEB6rkk33rYB#scrollTo=fzuyPAwPt26x)](https://colab.research.google.com/drive/1YJxIXGxixt0hQvVL3JfOyEB6rkk33rYB?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJxIXGxixt0hQvVL3JfOyEB6rkk33rYB?usp=drive_link)
 
 ### Option 2: Local Installation
 
