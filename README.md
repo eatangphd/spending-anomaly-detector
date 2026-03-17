@@ -37,8 +37,7 @@ This project is open source and available under the MIT License.
 - Visualization powered by **Matplotlib** and **Seaborn**
 - Inspired by **financial fraud detection systems**
 
-### 📧 Contact
+### 📧 Contact email: liz21atang@gmail.com
 **Elizabeth (Epse Kombe) Atang**: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/elizabeth-atang)
-- liz21atang@gmail.com
 
 ### Project Link: [https://github.com/eatangphd/spending-anomaly-detector](https://github.com/eatangphd/spending-anomaly-detector)
