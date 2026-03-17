@@ -24,3 +24,15 @@
 Click the badge below to open the notebook directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YJxIXGxixt0hQvVL3JfOyEB6rkk33rYB?usp=drive_link)
+
+
+### 🤝 Contributing
+Feel free to fork this project and adapt it for your own use case. Pull requests are welcome!
+
+### 📝 License
+This project is open source and available under the MIT License.
+
+### ⭐ Acknowledgments
+Built with Python in Google Colab and DeepSeek
+Visualization powered by Matplotlib and Seaborn
+Inspired by financial fraud detection systems
