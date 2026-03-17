@@ -4,11 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/spending-anomaly-detector/blob/main/notebooks/anomaly_detection.ipynb)
 
-<div align="center">
-  <img src="[images/dashboard_preview.png](https://drive.google.com/file/d/1RSPFqnkxbY1mqKyKR9QcUCOaTenqe3o-/view?usp=sharing)" alt="Dashboard Preview" width="800"/>
-  <p><em>Comprehensive visualization dashboard showing spending patterns and detected anomalies</em></p>
-</div>
-
 ## 📋 Overview
 
 **Spending Anomaly Detector** is a powerful Python tool that analyzes personal financial transactions to identify unusual spending patterns and potential fraud. Using multiple statistical detection methods, it provides visual insights into your spending habits while flagging transactions that deviate from your normal behavior.
