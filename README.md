@@ -11,10 +11,10 @@
 ### 🎯 Key Features
 
 - **Multi-Method Detection**: Combines Z-score, IQR, and percentile-based approaches
-- **Category-Specific Analysis**: Understands normal patterns per expense category
+- **Category-Specific Analysis**: Understands normal patterns per expense category (To-do)
 - **Interactive Visualizations**: Comprehensive plots and charts
 - **Severity Classification**: Prioritizes anomalies by risk level
-- **Exportable Reports**: Generate detailed CSV reports of flagged transactions
+- **Exportable Reports**: Generate detailed CSV reports of flagged transactions (To-do)
 - **Google Colab Ready**: Run instantly in your browser without installation
 
 ## 🚀 Quick Start
