@@ -33,6 +33,6 @@ Feel free to fork this project and adapt it for your own use case. Pull requests
 This project is open source and available under the MIT License.
 
 ### ⭐ Acknowledgments
-- Built with Python in Google Colab and DeepSeek
-- Visualization powered by Matplotlib and Seaborn
-- Inspired by financial fraud detection systems
+- Built with **Python** in **Google Colab** and **DeepSeek**
+- Visualization powered by **Matplotlib** and **Seaborn**
+- Inspired by **financial fraud detection systems**
