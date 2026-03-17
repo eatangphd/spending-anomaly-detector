@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/spending-anomaly-detector/blob/main/notebooks/anomaly_detection.ipynb)
 
 <div align="center">
-  <img src="images/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
+  <img src="[images/dashboard_preview.png](https://drive.google.com/file/d/1RSPFqnkxbY1mqKyKR9QcUCOaTenqe3o-/view?usp=sharing)" alt="Dashboard Preview" width="800"/>
   <p><em>Comprehensive visualization dashboard showing spending patterns and detected anomalies</em></p>
 </div>
 
