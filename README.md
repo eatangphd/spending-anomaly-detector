@@ -39,6 +39,6 @@ This project is open source and available under the MIT License.
 
 ### 📧 Contact
 **Elizabeth (Epse Kombe) Atang**: https://www.linkedin.com/in/elizabeth-atang - liz21atang@gmail.com
-[![LinkedIn](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.linkedin.com/in/elizabeth-atang)
+[![LinkedIn][https://www.svgrepo.com/svg/110195/linkedin](https://www.linkedin.com/in/elizabeth-atang)
 
 ### Project Link: [https://github.com/eatangphd/spending-anomaly-detector](https://github.com/eatangphd/spending-anomaly-detector)
