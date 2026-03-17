@@ -36,3 +36,8 @@ This project is open source and available under the MIT License.
 - Built with **Python** in **Google Colab** and **DeepSeek**
 - Visualization powered by **Matplotlib** and **Seaborn**
 - Inspired by **financial fraud detection systems**
+
+### 📧 Contact
+Elizabeth Atang - [![LinkedIn](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1YJxIXGxixt0hQvVL3JfOyEB6rkk33rYB?usp=drive_link](https://www.linkedin.com/in/elizabeth-atang)) - email@example.com
+
+### Project Link: [https://github.com/yourusername/spending-anomaly-detector](https://github.com/eatangphd/spending-anomaly-detector)
