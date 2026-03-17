@@ -38,7 +38,7 @@ This project is open source and available under the MIT License.
 - Inspired by **financial fraud detection systems**
 
 ### 📧 Contact
-**Elizabeth (Epse Kombe) Atang**: https://www.linkedin.com/in/elizabeth-atang - liz21atang@gmail.com
-[![Python 3.8+](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/elizabeth-atang)
+**Elizabeth (Epse Kombe) Atang**: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/elizabeth-atang)
+- liz21atang@gmail.com
 
 ### Project Link: [https://github.com/eatangphd/spending-anomaly-detector](https://github.com/eatangphd/spending-anomaly-detector)
