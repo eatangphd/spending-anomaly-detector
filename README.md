@@ -38,6 +38,6 @@ This project is open source and available under the MIT License.
 - Inspired by **financial fraud detection systems**
 
 ### 📧 Contact
-Elizabeth Atang - [![LinkedIn](https://colab.research.google.com/assets/colab-badge.svg)]([(https://www.linkedin.com/in/elizabeth-atang)]) - email@example.com
+Elizabeth Atang: https://www.linkedin.com/in/elizabeth-atang - liz21atang@gmail.com
 
 ### Project Link: [https://github.com/yourusername/spending-anomaly-detector](https://github.com/eatangphd/spending-anomaly-detector)
