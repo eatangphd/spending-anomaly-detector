@@ -14,7 +14,7 @@
 - **Category-Specific Analysis**: Understands normal patterns per expense category (To-do: 3)
 - **Insightful Visualizations**: Comprehensive plots and charts
 - **Severity Classification**: Prioritizes anomalies by risk level
-- **Exportable Reports**: Generate detailed CSV reports of flagged transactions (To-do: 8)
+- **Exportable Reports**: Generate detailed CSV reports of flagged transactions
 - **Google Colab Ready**: Run instantly in your browser without installation
 
 ## 🚀 Quick Start
