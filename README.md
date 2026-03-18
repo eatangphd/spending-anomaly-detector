@@ -11,7 +11,7 @@
 ### 🎯 Key Features
 
 - **Multi-Method Detection**: Combines Z-score, IQR, and percentile-based approaches
-- **Category-Specific Analysis**: Understands normal patterns per expense category (To-do: 3)
+- **Category-Specific Analysis**: Understands normal patterns per expense category
 - **Insightful Visualizations**: Comprehensive plots and charts
 - **Severity Classification**: Prioritizes anomalies by risk level
 - **Exportable Reports**: Generate detailed CSV reports of flagged transactions
